@@ -40,8 +40,6 @@
 
 **Recommendation:**
 - Linear Regression is suitable if R² is high and errors are low.
-- If performance is not satisfactory, consider more complex models (e.g., Random Forest, Gradient Boosting).
-
 ---
 
 ## Summary Table
